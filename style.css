@@ -1,0 +1,12 @@
+header{
+background-color: aqua;
+
+}
+.titulo-inicio{
+    
+    width: 100vw;
+    text-align: center;
+}
+.bg{
+   background-image: image(bas.png);
+}
