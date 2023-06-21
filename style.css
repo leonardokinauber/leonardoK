@@ -5,8 +5,9 @@ background-color: aqua;
 body{
     background-repeat: no-repeat;
     background-size: 100vw;
-    position: fixed;
+    overflow-x: hidden;
     background-image: url(./índice.jpeg);
+
 }
 .titulo-inicio{
     background:linear-gradient(#0044ff, #cef700);;
@@ -35,7 +36,4 @@ body{
 
 .grande2{
     font-size: 7rem;
-}
-.auau{
-    background-image: url(image.png);
 }
